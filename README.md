@@ -32,3 +32,8 @@ Takes 3 typing inputs:
 
 ### RAINBOW
 Basically the same as `GRADIENT`, except instead of passing colors yourself, it automatically returns it as a rainbow.
+
+# Picture Example
+| Code | Output |
+|------|--------|
+| ![Example](https://github.com/Korozin/Text-Colorizer/assets/90534409/639cf777-c9a7-4be4-83a6-07b688873d10) | ![Result](https://github.com/Korozin/Text-Colorizer/assets/90534409/03e3217c-674a-46a9-99aa-5c6b187ce2f7) |
